@@ -1,4 +1,4 @@
-**Set NTP ke 0.id.pool.ntp.org**
+<h1>Set NTP ke 0.id.pool.ntp.org</h1>
 <p>Pertama, kita set time ke Asia/Jakarta dengan perintah berikut.</p>   
 <img src="https://github.com/adhikasyafrina/Workshop-Administrasi-Jaringan/blob/main/Minggu%205/Images/set_time1.jpg" />
 <p>Lalu jangan aktifkan RTC (Real Time Clock) ke UTC dengan perintah berikut.</p>
