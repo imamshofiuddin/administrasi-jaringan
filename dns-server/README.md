@@ -101,7 +101,7 @@ Setelah itu kita isikan file tersebut dan kita mapping IP untuk masing masing ba
 *Forward Zone File (db.kampus-03.takehome.com)*:
 </br>
 
-<img src="images/8.jpg" width="" height="350" />
+<img src="images/15.jpg" width="" height="350" />
 
 </br>
 
@@ -161,17 +161,13 @@ Langkah yang dilakukan dalam menguji BIND9 adalah menambahkan Alamat IP nameserv
 *resolv.conf*:
 </br>
 
-<img src="images/12.jpg" width="" height="350" />
+<img src="images/16.jpg" width="" height="350" />
 
 </br>
 
 Selanjutnya, kita melakukan ping untuk domain yang sudah kita buat dalam file ```etc/bind/db.kampus-03.takehome.com```
 
 
-<img src="images/13.jpg" width="" height="350" />
+<img src="images/17.jpg" width="" height="350" />
 
 <br>
-
-<img src="images/14.jpg" width="" height="350" />
-
-</br>
