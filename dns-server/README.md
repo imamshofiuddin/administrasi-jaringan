@@ -45,7 +45,7 @@ sudo apt install bind9
 ## Configuration Files
 
 File konfigurasi DNS disimpan di direktori `/etc/bind`. Jika kita lihat list file pada direktori tersebut, kurang lebih akan seperti ini :<br>
-<img src="images/3.jpg">
+<img src="images/3.jpg"><br>
 Pertama-tama, kita harus tahu File-file mana yang akan kita konfigurasi yaitu :
 
 1. ```named.conf``` (Fungsinya untuk redirect DNS)
