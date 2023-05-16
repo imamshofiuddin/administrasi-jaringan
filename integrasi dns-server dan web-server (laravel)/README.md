@@ -1,3 +1,14 @@
+# INTEGRASI DNS-SERVER (MASTER - SLAVE) DENGAN WEB-SERVER DAN INSTALL LARAVEL
+
+### Kelompok 3 :
+### Imam Shofiuddin (3121600037)
+### Adhika Putri Syafrina Bukka (3121600058)
+### Matiin Muhammad Rajab (3121600059)
+
+<br><br>
+<hr>
+
+
 ## INSTALASI DNS SERVER (kampus-03.takehome.com)
 
 Untuk menginstall BIND9, pada terminal jalankan perintah berikut:
