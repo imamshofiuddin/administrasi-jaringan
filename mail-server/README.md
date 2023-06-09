@@ -66,6 +66,9 @@ seperti inilah proses konfigurasinya :
 <img src="images/10.jpg">
 <img src="images/11.jpg">
 <img src="images/12.jpg">
+
+Note : dengan menambahkan 0.0.0.0/0 kita dapat mengirimkan email ke semua network yang terhubung
+
 <img src="images/13.jpg">
 <br>
 
